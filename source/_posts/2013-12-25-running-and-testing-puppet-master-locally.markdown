@@ -114,6 +114,6 @@ Lets say our new production server should have *Curl* installed. We extend the `
 	  }
 	}
 	
-Now if we run `vagrant up` it will start botch machines. You can also run `vagrant up production` to just start the production machine. In the output, you should see that *production* installs *Curl*, but *localdev* does not. Congratulations, you can now develop Puppet on your local machine.
+Now if we run `vagrant up` it will start both machines. You can also run `vagrant up production` to just start the production machine. In the output, you should see that *production* installs *Curl*, but *localdev* does not. Congratulations, you can now develop Puppet on your local machine.
 
 [pro-puppet]: http://it-ebooks.info/book/730/  "Pro Puppet book"
