@@ -1,0 +1,71 @@
+==================================================================
+https://keybase.io/alexnederlof
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://alex.nederlof.com
+  * I am alexnederlof (https://keybase.io/alexnederlof) on keybase.
+  * I have a public key with fingerprint BDC4 6641 4245 59E6 A643  5B05 3F07 D02F 8650 B123
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "bdc46641424559e6a6435b053f07d02f8650b123",
+            "host": "keybase.io",
+            "key_id": "3f07d02f8650b123",
+            "uid": "ac354a4db95b76889c671fce6499d900",
+            "username": "alexnederlof"
+        },
+        "service": {
+            "hostname": "alex.nederlof.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1411459884,
+    "expire_in": 157680000,
+    "prev": "f41377d6f35b980119e9a0a43c549d5cddcd193fb2133fc7ed0701c53093f4ce",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v1.0.5
+Comment: https://keybase.io/crypto
+
+yML2AnicO8LLzMDFaM9+Qb8tYKMy4+kDv0oZQhS1daqVkvJTKpWsqpWyU8FUWmZe
+empRQVFmXomSlVJSSrKJmZmJoYmRiampZapZopmJsWmSgalxmoF5ioFRmoWZqUGS
+oZGxko5SRn4xSAfQmKTE4lS9zHygGJATn5kCFMWivhQskZhsbGqSaJKSZGmaZG5m
+YWGZbGZumJacamZiaZliaWAAUlicWpSXmJsKUp2TWpGXmpJalJOfplSrowSUKctM
+TgW5G2Q9kio9mDK95PxcoCEFRfkl+cn5OUDpjJKSAiuQ7pLKApDy8tSkeKhB8UmZ
+eSnAAABqKEstKs7Mz1OyMgSqTC7JBJlsaGJoaGJqaWFhoqOUWlGQWZQanwlSYQp0
+uQEQgKxJLQMamWZiaGxunmKWBgwsSwsDQ0PLVMtEg0QT42RTE8sU0+SUlOQUQ0vj
+tCQjQ2PjtGTz1BQDcwPDZFNjA6CgCdBDIK8V5uUrWQFtKklMBxpZnJmel1hSWpSq
+VHvoYAwLAyMXAxsrEygKGbg4BWARm5wmwDBfr4Ft2Scllrf+emLPoi6lL5+rGxg9
+NfCyn4En7zG5xxXut28pyqktmDaJVYU7UMt9Z0FL9I+G0OsNc4obhW99s92/Nv2P
+mdQfv5MxWq7PT7ydP503a1G1p3dvv6zUR975psedL/czxQmt4Z62/MXe9PJDs5aq
+PmT58zvtpFr7jZuLvXbpd6eo+zRJ7/Lw1dq1bn2y6/PcOXy3czoUv5TrxptNfz1V
+8FHij3rjnkfM2zNMfX3iria+3bF2g1bgmvR5zKXy/vN965w5O9ZdT2qTaFG13uVx
+kTV7psWlvk9fIwMyv4VKanNm7MwxznsydbbfIzMz6w+bsz1stv1/5J94WmiPb/ki
+qeA27vaT+hM5Zpx32L9/Dc9Hvmz//puNW5ZFpBxYlTbRoS3hj9v99YEqoS8ylvJo
+x+ivfOn9rWuN6szFh33qtf9NcdO6r8t9MbaLeZ/0d5s3rFxGPe2bVRsDmioVq+67
+sC+25UnfGeu/14BN6kVs5vRa6+64e0Fnr0qYzq8L+qLyZVfUxwD+BXInYhtPvYh6
+8qbnhIGSnce2cKn5J6d8s4yc7FK6WU0m6EvtK/M7TL975BYm/jPs5DrAdKle+VkO
+T4lcf9f+5oZ/d3ll/odcTP/+bMdxVddbvX1sxif27Atrv5Ad0vjR5V/3kYrvKecf
+n9w0b6bDvFDu+GSLxDsTFVkqYl4wTm1Zfdxp8lFeo9TbP/YDAMXSiqM=
+=BHxd
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alexnederlof
+
+==================================================================
+
