@@ -20,7 +20,7 @@ When a customer would log-in, an event would fire that the web server needs an a
 
 Getting comfortable with running multiple versions of the same services has other benefits too: 
 
-Because just listening on an message bus is so easy you can compare how they perform. Event if you just ignore on of the newer versions. This is great to try out new stuff. For example, you can define a fitness function for the accuracy of the advertisement, run a new version for a week, and compare the broadcasted advertisements from the old and the new version, to see which one behaves better.
+Because just listening on an message bus is so easy you can compare how they perform. Even if you just ignore on of the newer versions. This is great to try out new stuff. For example, you can define a fitness function for the accuracy of the advertisement, run a new version for a week, and compare the broadcasted advertisements from the old and the new version, to see which one behaves better.
 
 If you have compatibility issues, you can let the old and the new version of a service run in parallel, and let the newer services consume the newer version of the messages. If you do this right, and the services are small enough, this actually much easier than refactoring your API. 
 
