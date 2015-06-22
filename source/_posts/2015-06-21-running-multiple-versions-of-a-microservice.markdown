@@ -4,6 +4,7 @@ title: "Running multiple versions of a micro service"
 date: 2015-06-21 13:24:31 +0200
 comments: true
 categories: 
+twitterDescription: "Running multiple versions of the same service sounds scary, but is actually really cool to try out new stuff, monitor a new system running in parallel, and not having to refactor old code immediately."
 ---
 Last week I visited [GOTO Amsterdam](http://gotocon.com/amsterdam-2015). There were some fantastic speakers talking about micro services. At [Magnet.me](https://magnet.me) we're spending a lot of effort in transforming our monolithic application into micro services so we were curious to see if we were on the right track. Turns out we are, for which I'm very proud of the team. One talk in in particular stood out and gave me a new insight, which I'd like to share here.
 
